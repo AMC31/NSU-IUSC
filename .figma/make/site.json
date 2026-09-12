@@ -1,0 +1,10 @@
+{
+  "description": "Easily create and customize websites from markdown files, empowering users to transform text into professional web pages without coding expertise.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
